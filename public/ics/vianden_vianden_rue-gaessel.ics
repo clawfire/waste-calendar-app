@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Rue Gaessel
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260115
-DTSTAMP:20260109T002249Z
+DTSTAMP:20260110T002247Z
 UID:ebde5c023122bc00ec15b5dba9631fac@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
