@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Rue de la Frontière
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260115
-DTSTAMP:20260110T002247Z
+DTSTAMP:20260111T002534Z
 UID:93b6859d7a3d76e94fdbae3e003f1580@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - ZAE - route de Bettel
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260115
-DTSTAMP:20260110T002247Z
+DTSTAMP:20260111T002534Z
 UID:cbe2e29f58f86dfcecbb8debc2751f5c@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
