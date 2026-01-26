@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Maison de Soins de l'Etat
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260416
-DTSTAMP:20260125T002548Z
+DTSTAMP:20260126T002456Z
 UID:0af7ea9ec9009061473b4d3e1967a7e1@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
