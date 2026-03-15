@@ -42219,9 +42219,44 @@
             "ics_filename": "dippach_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
+                "date_iso": "2026-03-18",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets d’équipements électriques et électroniques"
+              },
+              {
+                "date_iso": "2026-03-18",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
                 "date_iso": "2026-03-20",
                 "jour_semaine": "Vendredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-03-25",
+                "jour_semaine": "Mercredi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-03-25",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-04-01",
+                "jour_semaine": "Mercredi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-01",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets d’équipements électriques et électroniques"
+              },
+              {
+                "date_iso": "2026-04-01",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
               },
               {
                 "date_iso": "2026-04-03",
@@ -42229,14 +42264,124 @@
                 "type": "Valorlux"
               },
               {
+                "date_iso": "2026-04-08",
+                "jour_semaine": "Mercredi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-08",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-04-09",
+                "jour_semaine": "Jeudi",
+                "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2026-04-09",
+                "jour_semaine": "Jeudi",
+                "type": "Verre"
+              },
+              {
+                "date_iso": "2026-04-13",
+                "jour_semaine": "Lundi",
+                "type": "Déchets de verdure"
+              },
+              {
+                "date_iso": "2026-04-15",
+                "jour_semaine": "Mercredi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-15",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets d’équipements électriques et électroniques"
+              },
+              {
+                "date_iso": "2026-04-15",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
                 "date_iso": "2026-04-17",
                 "jour_semaine": "Vendredi",
                 "type": "Valorlux"
               },
               {
+                "date_iso": "2026-04-22",
+                "jour_semaine": "Mercredi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-22",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-04-29",
+                "jour_semaine": "Mercredi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-29",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets d’équipements électriques et électroniques"
+              },
+              {
+                "date_iso": "2026-04-29",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
                 "date_iso": "2026-05-02",
                 "jour_semaine": "Samedi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-05-04",
+                "jour_semaine": "Lundi",
+                "type": "Déchets de verdure"
+              },
+              {
+                "date_iso": "2026-05-04",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2026-05-06",
+                "jour_semaine": "Mercredi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-05-06",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-05-11",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2026-05-11",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
+              },
+              {
+                "date_iso": "2026-05-13",
+                "jour_semaine": "Mercredi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-05-13",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets d’équipements électriques et électroniques"
+              },
+              {
+                "date_iso": "2026-05-13",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
               },
               {
                 "date_iso": "2026-05-15",
@@ -42249,9 +42394,74 @@
                 "type": "Valorlux"
               },
               {
+                "date_iso": "2026-05-20",
+                "jour_semaine": "Mercredi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-05-20",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-05-27",
+                "jour_semaine": "Mercredi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-05-27",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets d’équipements électriques et électroniques"
+              },
+              {
+                "date_iso": "2026-05-27",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
                 "date_iso": "2026-05-29",
                 "jour_semaine": "Vendredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-06-01",
+                "jour_semaine": "Lundi",
+                "type": "Déchets de verdure"
+              },
+              {
+                "date_iso": "2026-06-03",
+                "jour_semaine": "Mercredi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-06-03",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-06-10",
+                "jour_semaine": "Mercredi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-06-10",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets d’équipements électriques et électroniques"
+              },
+              {
+                "date_iso": "2026-06-10",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-06-11",
+                "jour_semaine": "Jeudi",
+                "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2026-06-11",
+                "jour_semaine": "Jeudi",
+                "type": "Verre"
               },
               {
                 "date_iso": "2026-06-12",
@@ -536679,9 +536889,94 @@
             "ics_filename": "schifflange_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
+                "date_iso": "2026-03-16",
+                "jour_semaine": "Lundi",
+                "type": "Verre – 40L"
+              },
+              {
+                "date_iso": "2026-03-18",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-03-19",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-03-20",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2026-03-20",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton – 40L"
+              },
+              {
                 "date_iso": "2026-03-23",
                 "jour_semaine": "Lundi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-03-23",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
+              },
+              {
+                "date_iso": "2026-03-23",
+                "jour_semaine": "Lundi",
+                "type": "Verre – 40L"
+              },
+              {
+                "date_iso": "2026-03-25",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-03-26",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-03-27",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton – 40L"
+              },
+              {
+                "date_iso": "2026-03-30",
+                "jour_semaine": "Lundi",
+                "type": "Verre – 40L"
+              },
+              {
+                "date_iso": "2026-04-01",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-04-02",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-03",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton – 40L"
+              },
+              {
+                "date_iso": "2026-04-08",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-04-09",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-10",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton – 40L"
               },
               {
                 "date_iso": "2026-04-11",
@@ -536689,9 +536984,74 @@
                 "type": "Valorlux"
               },
               {
+                "date_iso": "2026-04-13",
+                "jour_semaine": "Lundi",
+                "type": "Verre – 40L"
+              },
+              {
+                "date_iso": "2026-04-15",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-04-16",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-17",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2026-04-17",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton – 40L"
+              },
+              {
                 "date_iso": "2026-04-20",
                 "jour_semaine": "Lundi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-04-20",
+                "jour_semaine": "Lundi",
+                "type": "Verre – 40L"
+              },
+              {
+                "date_iso": "2026-04-22",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-04-23",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-24",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton – 40L"
+              },
+              {
+                "date_iso": "2026-04-27",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
+              },
+              {
+                "date_iso": "2026-04-27",
+                "jour_semaine": "Lundi",
+                "type": "Verre – 40L"
+              },
+              {
+                "date_iso": "2026-04-29",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-04-30",
+                "jour_semaine": "Jeudi",
+                "type": "Papier/Carton – 40L"
               },
               {
                 "date_iso": "2026-05-04",
@@ -536699,9 +537059,99 @@
                 "type": "Valorlux"
               },
               {
+                "date_iso": "2026-05-04",
+                "jour_semaine": "Lundi",
+                "type": "Verre – 40L"
+              },
+              {
+                "date_iso": "2026-05-06",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-05-07",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-05-08",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton – 40L"
+              },
+              {
+                "date_iso": "2026-05-11",
+                "jour_semaine": "Lundi",
+                "type": "Verre – 40L"
+              },
+              {
+                "date_iso": "2026-05-13",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-05-15",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2026-05-15",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton – 40L"
+              },
+              {
+                "date_iso": "2026-05-16",
+                "jour_semaine": "Samedi",
+                "type": "Biodéchets"
+              },
+              {
                 "date_iso": "2026-05-18",
                 "jour_semaine": "Lundi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-05-18",
+                "jour_semaine": "Lundi",
+                "type": "Verre – 40L"
+              },
+              {
+                "date_iso": "2026-05-20",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-05-21",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-05-22",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton – 40L"
+              },
+              {
+                "date_iso": "2026-05-23",
+                "jour_semaine": "Samedi",
+                "type": "Verre"
+              },
+              {
+                "date_iso": "2026-05-27",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-05-28",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-05-29",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton – 40L"
+              },
+              {
+                "date_iso": "2026-06-01",
+                "jour_semaine": "Lundi",
+                "type": "Déchets d’équipements électriques et électroniques"
               },
               {
                 "date_iso": "2026-06-01",
@@ -536709,9 +537159,275 @@
                 "type": "Valorlux"
               },
               {
+                "date_iso": "2026-06-01",
+                "jour_semaine": "Lundi",
+                "type": "Verre – 40L"
+              },
+              {
+                "date_iso": "2026-06-03",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-06-04",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-06-05",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton – 40L"
+              },
+              {
+                "date_iso": "2026-06-08",
+                "jour_semaine": "Lundi",
+                "type": "Verre – 40L"
+              },
+              {
                 "date_iso": "2026-06-09",
                 "jour_semaine": "Mardi",
                 "type": "SuperDrecksKëscht"
+              },
+              {
+                "date_iso": "2026-06-10",
+                "jour_semaine": "Mercredi",
+                "type": "Conteneur pour déchets ménagers"
+              },
+              {
+                "date_iso": "2026-06-11",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-06-12",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton – 40L"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "commune": "Schuttrange",
+    "localities": [
+      {
+        "name": null,
+        "streets": [
+          {
+            "name": "Toutes les rues",
+            "ics_filename": "schuttrange_no-loc_toutes-les-rues.ics",
+            "collectes": [
+              {
+                "date_iso": "2026-03-18",
+                "jour_semaine": "Mercredi",
+                "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-03-19",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-03-24",
+                "jour_semaine": "Mardi",
+                "type": "Déchets de verdure"
+              },
+              {
+                "date_iso": "2026-03-26",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-03-26",
+                "jour_semaine": "Jeudi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-03-27",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2026-03-27",
+                "jour_semaine": "Vendredi",
+                "type": "Verre"
+              },
+              {
+                "date_iso": "2026-04-01",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets d’équipements électriques et électroniques"
+              },
+              {
+                "date_iso": "2026-04-01",
+                "jour_semaine": "Mercredi",
+                "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-04-02",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-02",
+                "jour_semaine": "Jeudi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2026-04-07",
+                "jour_semaine": "Mardi",
+                "type": "Déchets de verdure"
+              },
+              {
+                "date_iso": "2026-04-09",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-09",
+                "jour_semaine": "Jeudi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-04-15",
+                "jour_semaine": "Mercredi",
+                "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-04-16",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-21",
+                "jour_semaine": "Mardi",
+                "type": "Déchets de verdure"
+              },
+              {
+                "date_iso": "2026-04-23",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-04-23",
+                "jour_semaine": "Jeudi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-04-24",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2026-04-24",
+                "jour_semaine": "Vendredi",
+                "type": "Verre"
+              },
+              {
+                "date_iso": "2026-04-29",
+                "jour_semaine": "Mercredi",
+                "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-04-30",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-05-06",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets d’équipements électriques et électroniques"
+              },
+              {
+                "date_iso": "2026-05-07",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-05-07",
+                "jour_semaine": "Jeudi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2026-05-07",
+                "jour_semaine": "Jeudi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-05-13",
+                "jour_semaine": "Mercredi",
+                "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-05-16",
+                "jour_semaine": "Samedi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-05-21",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-05-21",
+                "jour_semaine": "Jeudi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-05-22",
+                "jour_semaine": "Vendredi",
+                "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2026-05-22",
+                "jour_semaine": "Vendredi",
+                "type": "Verre"
+              },
+              {
+                "date_iso": "2026-05-27",
+                "jour_semaine": "Mercredi",
+                "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-05-28",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-05-28",
+                "jour_semaine": "Jeudi",
+                "type": "SuperDrecksKëscht"
+              },
+              {
+                "date_iso": "2026-06-03",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets d’équipements électriques et électroniques"
+              },
+              {
+                "date_iso": "2026-06-04",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-06-04",
+                "jour_semaine": "Jeudi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2026-06-04",
+                "jour_semaine": "Jeudi",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-06-10",
+                "jour_semaine": "Mercredi",
+                "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-06-11",
+                "jour_semaine": "Jeudi",
+                "type": "Biodéchets"
               }
             ]
           }
