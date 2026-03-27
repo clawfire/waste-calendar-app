@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Rue Dr. Albert Calmette
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260416
-DTSTAMP:20260326T003156Z
+DTSTAMP:20260327T003142Z
 UID:7c96ea93ba1e193c85ad7e466575cb83@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
