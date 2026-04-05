@@ -11788,11 +11788,6 @@
             "ics_filename": "beckerich_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Ferraille"
-              },
-              {
                 "date_iso": "2026-04-08",
                 "jour_semaine": "Mercredi",
                 "type": "Déchets ménagers en mélange"
@@ -13521,16 +13516,6 @@
             "ics_filename": "bourscheid_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Valorlux"
-              },
-              {
                 "date_iso": "2026-04-09",
                 "jour_semaine": "Jeudi",
                 "type": "Verre"
@@ -13922,11 +13907,6 @@
             "name": "Toutes les rues",
             "ics_filename": "clervaux_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-09",
                 "jour_semaine": "Jeudi",
@@ -15142,11 +15122,6 @@
             "name": "Toutes les rues",
             "ics_filename": "diekirch_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
               {
                 "date_iso": "2026-04-08",
                 "jour_semaine": "Mercredi",
@@ -39841,21 +39816,6 @@
             "ics_filename": "dudelange_dudelange_am-weierchen.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -40664,21 +40624,6 @@
             "name": "An der Soibelkaul",
             "ics_filename": "dudelange_dudelange_an-der-soibelkaul.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -41489,21 +41434,6 @@
             "ics_filename": "dudelange_dudelange_in-boujel.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -42142,21 +42072,6 @@
             "name": "Place Gymnich",
             "ics_filename": "dudelange_dudelange_place-gymnich.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -42967,21 +42882,6 @@
             "ics_filename": "dudelange_dudelange_route-de-boudersberg.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -43790,21 +43690,6 @@
             "name": "Route de Noertzange",
             "ics_filename": "dudelange_dudelange_route-de-noertzange.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -44820,21 +44705,6 @@
             "name": "Rue Abbé Lemire",
             "ics_filename": "dudelange_dudelange_rue-abb-lemire.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -46093,21 +45963,6 @@
             "ics_filename": "dudelange_dudelange_rue-angeldall.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -46710,21 +46565,6 @@
             "name": "Rue Baltzing",
             "ics_filename": "dudelange_dudelange_rue-baltzing.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -48153,21 +47993,6 @@
             "ics_filename": "dudelange_dudelange_rue-curie.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -48564,21 +48389,6 @@
             "name": "Rue Ditzenheck",
             "ics_filename": "dudelange_dudelange_rue-ditzenheck.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -48977,21 +48787,6 @@
             "ics_filename": "dudelange_dudelange_rue-dr-albert-schweitzer.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -49182,21 +48977,6 @@
             "name": "Rue Dr Orphée Bernard",
             "ics_filename": "dudelange_dudelange_rue-dr-orph-e-bernard.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -49800,21 +49580,6 @@
             "name": "Rue Emely Arnoldy-Loos",
             "ics_filename": "dudelange_dudelange_rue-emely-arnoldy-loos.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -52273,21 +52038,6 @@
             "ics_filename": "dudelange_dudelange_rue-henri-dunant.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -52685,21 +52435,6 @@
             "ics_filename": "dudelange_dudelange_rue-jacques-reifenberg.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -52890,21 +52625,6 @@
             "name": "Rue Jean Baptiste Wolff",
             "ics_filename": "dudelange_dudelange_rue-jean-baptiste-wolff.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -53302,21 +53022,6 @@
             "name": "Rue Jean Eiffes",
             "ics_filename": "dudelange_dudelange_rue-jean-eiffes.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -53920,21 +53625,6 @@
             "name": "Rue Jean Mylius",
             "ics_filename": "dudelange_dudelange_rue-jean-mylius.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -55127,21 +54817,6 @@
             "ics_filename": "dudelange_dudelange_rue-large.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -55744,21 +55419,6 @@
             "name": "Rue Louis Rech",
             "ics_filename": "dudelange_dudelange_rue-louis-rech.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -58665,21 +58325,6 @@
             "ics_filename": "dudelange_dudelange_rue-nic-bodry.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -59488,21 +59133,6 @@
             "name": "Rue Pasteur",
             "ics_filename": "dudelange_dudelange_rue-pasteur.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -60313,21 +59943,6 @@
             "ics_filename": "dudelange_dudelange_rue-raoul-follereau.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -60931,21 +60546,6 @@
             "ics_filename": "dudelange_dudelange_rue-ribeschpont.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -61136,21 +60736,6 @@
             "name": "Rue Robert Schuman",
             "ics_filename": "dudelange_dudelange_rue-robert-schuman.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -61548,21 +61133,6 @@
             "name": "Rue Révérend Père Jacques Thiel",
             "ics_filename": "dudelange_dudelange_rue-r-v-rend-p-re-jacques-thiel.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -62991,21 +62561,6 @@
             "ics_filename": "dudelange_dudelange_rue-th-odore-thiel.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -63645,21 +63200,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-hellange.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -63850,21 +63390,6 @@
             "name": "Rue de Lauenburg",
             "ics_filename": "dudelange_dudelange_rue-de-lauenburg.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -64057,21 +63582,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-lebork.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -64263,21 +63773,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-manom.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -64468,21 +63963,6 @@
             "name": "Rue de l'Abattoir",
             "ics_filename": "dudelange_dudelange_rue-de-l-abattoir.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -66116,21 +65596,6 @@
             "name": "Rue de la Chapelle",
             "ics_filename": "dudelange_dudelange_rue-de-la-chapelle.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -68007,21 +67472,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-bobineurs.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -68212,21 +67662,6 @@
             "name": "Rue des Bouleaux",
             "ics_filename": "dudelange_dudelange_rue-des-bouleaux.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -68419,21 +67854,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-champs.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -68625,21 +68045,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-chaudronniers.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -68830,21 +68235,6 @@
             "name": "Rue des Coquelicots",
             "ics_filename": "dudelange_dudelange_rue-des-coquelicots.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -69449,21 +68839,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-fondeurs.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -69655,21 +69030,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-forgerons.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -69860,21 +69220,6 @@
             "name": "Rue des Gaulois",
             "ics_filename": "dudelange_dudelange_rue-des-gaulois.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -70273,21 +69618,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-lamineurs.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -70478,21 +69808,6 @@
             "name": "Rue des Marguerites",
             "ics_filename": "dudelange_dudelange_rue-des-marguerites.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -70891,21 +70206,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-modeleurs.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -71097,21 +70397,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-mouleurs.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -71302,21 +70587,6 @@
             "name": "Rue des Poseurs",
             "ics_filename": "dudelange_dudelange_rue-des-poseurs.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -71715,21 +70985,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-pr-s.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -71920,21 +71175,6 @@
             "name": "Rue des Romains",
             "ics_filename": "dudelange_dudelange_rue-des-romains.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -72127,21 +71367,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-saules.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -72333,21 +71558,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-traceurs.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -72538,21 +71748,6 @@
             "name": "Rue des Violettes",
             "ics_filename": "dudelange_dudelange_rue-des-violettes.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -73363,21 +72558,6 @@
             "ics_filename": "dudelange_dudelange_rue-du-ch-teau-fort.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -73775,21 +72955,6 @@
             "ics_filename": "dudelange_dudelange_rue-du-mont-st-jean.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -74016,21 +73181,6 @@
             "name": "Rue du Nord",
             "ics_filename": "dudelange_dudelange_rue-du-nord.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-13",
                 "jour_semaine": "Lundi",
@@ -75802,16 +74952,6 @@
             "name": "Toutes les rues",
             "ics_filename": "erpeldange-sur-s-re_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Valorlux"
-              },
               {
                 "date_iso": "2026-04-07",
                 "jour_semaine": "Mardi",
@@ -183219,11 +182359,6 @@
             "ics_filename": "esch-sur-s-re_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
                 "date_iso": "2026-04-08",
                 "jour_semaine": "Mercredi",
                 "type": "Déchets d’équipements électriques et électroniques"
@@ -183395,16 +182530,6 @@
             "ics_filename": "ettelbruck_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets de verdure"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-04-07",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
@@ -183563,6 +182688,11 @@
                 "date_iso": "2026-07-03",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-07-04",
+                "jour_semaine": "Samedi",
+                "type": "Déchets de verdure"
               }
             ]
           }
@@ -188976,16 +188106,6 @@
             "ics_filename": "helperknapp_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Valorlux"
-              },
-              {
                 "date_iso": "2026-04-15",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -189387,11 +188507,6 @@
             "name": "Toutes les rues",
             "ics_filename": "kayl_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
               {
                 "date_iso": "2026-04-08",
                 "jour_semaine": "Mercredi",
@@ -222293,11 +221408,6 @@
             "ics_filename": "lac-de-la-haute-s-re_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
                 "date_iso": "2026-04-08",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
@@ -235946,11 +235056,6 @@
             "name": "Toutes les rues",
             "ics_filename": "lintgen_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
               {
                 "date_iso": "2026-04-09",
                 "jour_semaine": "Jeudi",
@@ -483317,11 +482422,6 @@
             "ics_filename": "parc-hosingen_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Valorlux"
-              },
-              {
                 "date_iso": "2026-04-08",
                 "jour_semaine": "Mercredi",
                 "type": "SuperDrecksKëscht"
@@ -483663,11 +482763,6 @@
             "name": "Toutes les rues",
             "ics_filename": "putscheid_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-07",
                 "jour_semaine": "Mardi",
@@ -515263,11 +514358,6 @@
             "ics_filename": "redange-attert_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Valorlux"
-              },
-              {
                 "date_iso": "2026-04-08",
                 "jour_semaine": "Mercredi",
                 "type": "Déchets ménagers en mélange"
@@ -530246,11 +529336,6 @@
             "ics_filename": "roeser_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Biodéchets"
-              },
-              {
                 "date_iso": "2026-04-09",
                 "jour_semaine": "Jeudi",
                 "type": "Déchets ménagers en mélange"
@@ -530722,11 +529807,6 @@
             "name": "Toutes les rues",
             "ics_filename": "saeul_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
               {
                 "date_iso": "2026-04-15",
                 "jour_semaine": "Mercredi",
@@ -533369,11 +532449,6 @@
             "ics_filename": "tandel_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
-              {
                 "date_iso": "2026-04-07",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
@@ -533886,11 +532961,6 @@
             "name": "Toutes les rues",
             "ics_filename": "vall-e-de-l-ernz_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-07",
                 "jour_semaine": "Mardi",
@@ -534541,11 +533611,6 @@
             "name": "Toutes les rues",
             "ics_filename": "vianden_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
               {
                 "date_iso": "2026-04-07",
                 "jour_semaine": "Mardi",
@@ -538904,11 +537969,6 @@
             "ics_filename": "weiler-la-tour_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
-              {
                 "date_iso": "2026-04-07",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -539174,11 +538234,6 @@
             "name": "Toutes les rues",
             "ics_filename": "weiswampach_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Verre"
-              },
               {
                 "date_iso": "2026-04-08",
                 "jour_semaine": "Mercredi",
@@ -542101,11 +541156,6 @@
             "name": "Toutes les rues",
             "ics_filename": "winseler_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-04-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets ménagers en mélange"
-              },
               {
                 "date_iso": "2026-04-10",
                 "jour_semaine": "Vendredi",

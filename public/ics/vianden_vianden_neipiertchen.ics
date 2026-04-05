@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Neipiertchen
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260416
-DTSTAMP:20260404T003015Z
+DTSTAMP:20260405T003339Z
 UID:cd364c1db4bbfbcf013fee463b629016@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
