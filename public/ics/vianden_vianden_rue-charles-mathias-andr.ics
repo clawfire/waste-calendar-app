@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Rue Charles Mathias André
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260716
-DTSTAMP:20260427T003927Z
+DTSTAMP:20260428T004211Z
 UID:dd2e0f47e02bfc6cc3d86876001fed0f@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
