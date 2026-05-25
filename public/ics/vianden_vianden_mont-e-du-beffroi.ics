@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Montée du Beffroi
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260716
-DTSTAMP:20260524T004855Z
+DTSTAMP:20260525T004958Z
 UID:45d7a103e84314502b0533cfbb6ea1ce@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED

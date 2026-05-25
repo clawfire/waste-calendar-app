@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Rue du Vieux Marché
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260716
-DTSTAMP:20260524T004855Z
+DTSTAMP:20260525T004958Z
 UID:0e8204f5b0a18df75a69d2eccc4cd7dd@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
