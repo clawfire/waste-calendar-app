@@ -11278,11 +11278,6 @@
             "ics_filename": "beckerich_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-06-06",
-                "jour_semaine": "Samedi",
-                "type": "Ferraille"
-              },
-              {
                 "date_iso": "2026-06-12",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -213119,11 +213114,6 @@
             "name": "Toutes les rues",
             "ics_filename": "ettelbruck_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-06-06",
-                "jour_semaine": "Samedi",
-                "type": "Déchets de verdure"
-              },
               {
                 "date_iso": "2026-06-10",
                 "jour_semaine": "Mercredi",
