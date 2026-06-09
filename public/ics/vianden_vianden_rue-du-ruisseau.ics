@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Rue du Ruisseau
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260716
-DTSTAMP:20260608T005507Z
+DTSTAMP:20260609T004838Z
 UID:fd64ab1e413536d2be4a8ad6ee9b88e0@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
