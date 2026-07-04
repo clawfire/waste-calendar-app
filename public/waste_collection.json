@@ -216090,11 +216090,6 @@
             "ics_filename": "ettelbruck_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-07-04",
-                "jour_semaine": "Samedi",
-                "type": "Déchets de verdure"
-              },
-              {
                 "date_iso": "2026-07-06",
                 "jour_semaine": "Lundi",
                 "type": "Papier/Carton"
