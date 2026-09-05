@@ -11991,6 +11991,11 @@
                 "date_iso": "2026-12-04",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-05",
+                "jour_semaine": "Samedi",
+                "type": "Ferraille"
               }
             ]
           }
@@ -219044,11 +219049,6 @@
             "name": "Toutes les rues",
             "ics_filename": "ettelbruck_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Déchets de verdure"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -522909,11 +522909,6 @@
             "ics_filename": "p-tange_lamadelaine_rue-jean-pierre-kirchen.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -526844,11 +526839,6 @@
             "ics_filename": "p-tange_p-tange_an-den-jenken.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -527044,11 +527034,6 @@
             "name": "An der Prenzewiss",
             "ics_filename": "p-tange_p-tange_an-der-prenzewiss.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -527246,11 +527231,6 @@
             "ics_filename": "p-tange_p-tange_avenue-de-la-gare.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -527446,11 +527426,6 @@
             "name": "Cité Cfl",
             "ics_filename": "p-tange_p-tange_cit-cfl.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -527648,11 +527623,6 @@
             "ics_filename": "p-tange_p-tange_cour-de-la-gare.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -527848,11 +527818,6 @@
             "name": "Op Raechels",
             "ics_filename": "p-tange_p-tange_op-raechels.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -528050,11 +528015,6 @@
             "ics_filename": "p-tange_p-tange_place-de-la-lib-ration.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -528250,11 +528210,6 @@
             "name": "Place du Marché",
             "ics_filename": "p-tange_p-tange_place-du-march.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -528452,11 +528407,6 @@
             "ics_filename": "p-tange_p-tange_porte-lamadelaine.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -528652,11 +528602,6 @@
             "name": "Route de Longwy",
             "ics_filename": "p-tange_p-tange_route-de-longwy.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -528854,11 +528799,6 @@
             "ics_filename": "p-tange_p-tange_route-de-luxembourg.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -529054,11 +528994,6 @@
             "name": "Route de Niederkorn",
             "ics_filename": "p-tange_p-tange_route-de-niederkorn.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -529256,11 +529191,6 @@
             "ics_filename": "p-tange_p-tange_rue-adolphe.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -529456,11 +529386,6 @@
             "name": "Rue Aloyse Kayser",
             "ics_filename": "p-tange_p-tange_rue-aloyse-kayser.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -529658,11 +529583,6 @@
             "ics_filename": "p-tange_p-tange_rue-antoine-nangeroni.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -529858,11 +529778,6 @@
             "name": "Rue Armand Kaiser",
             "ics_filename": "p-tange_p-tange_rue-armand-kaiser.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -530060,11 +529975,6 @@
             "ics_filename": "p-tange_p-tange_rue-batty-weber.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -530260,11 +530170,6 @@
             "name": "Rue Belair",
             "ics_filename": "p-tange_p-tange_rue-belair.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -530462,11 +530367,6 @@
             "ics_filename": "p-tange_p-tange_rue-belle-vue.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -530662,11 +530562,6 @@
             "name": "Rue Bommert",
             "ics_filename": "p-tange_p-tange_rue-bommert.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -530864,11 +530759,6 @@
             "ics_filename": "p-tange_p-tange_rue-c-m-spoo.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -531064,11 +530954,6 @@
             "name": "Rue Charlotte",
             "ics_filename": "p-tange_p-tange_rue-charlotte.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -531266,11 +531151,6 @@
             "ics_filename": "p-tange_p-tange_rue-dicks.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -531466,11 +531346,6 @@
             "name": "Rue Edward Steichen",
             "ics_filename": "p-tange_p-tange_rue-edward-steichen.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -531668,11 +531543,6 @@
             "ics_filename": "p-tange_p-tange_rue-eucosider.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -531868,11 +531738,6 @@
             "name": "Rue Gessel",
             "ics_filename": "p-tange_p-tange_rue-gessel.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -532070,11 +531935,6 @@
             "ics_filename": "p-tange_p-tange_rue-guillaume.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -532270,11 +532130,6 @@
             "name": "Rue Jacques Chauvin",
             "ics_filename": "p-tange_p-tange_rue-jacques-chauvin.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -532472,11 +532327,6 @@
             "ics_filename": "p-tange_p-tange_rue-jean-waxweiler.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -532672,11 +532522,6 @@
             "name": "Rue Jean-Baptiste Gillardin",
             "ics_filename": "p-tange_p-tange_rue-jean-baptiste-gillardin.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -532874,11 +532719,6 @@
             "ics_filename": "p-tange_p-tange_rue-lentz.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -533074,11 +532914,6 @@
             "name": "Rue Léonard Schroeder",
             "ics_filename": "p-tange_p-tange_rue-l-onard-schroeder.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -533276,11 +533111,6 @@
             "ics_filename": "p-tange_p-tange_rue-marie-adelaide.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -533476,11 +533306,6 @@
             "name": "Rue Mathias Adam",
             "ics_filename": "p-tange_p-tange_rue-mathias-adam.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -533678,11 +533503,6 @@
             "ics_filename": "p-tange_p-tange_rue-michel-rodange.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -533878,11 +533698,6 @@
             "name": "Rue Neuve",
             "ics_filename": "p-tange_p-tange_rue-neuve.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -534080,11 +533895,6 @@
             "ics_filename": "p-tange_p-tange_rue-oberst-daessent.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -534280,11 +534090,6 @@
             "name": "Rue Pierre Grégoire",
             "ics_filename": "p-tange_p-tange_rue-pierre-gr-goire.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -534482,11 +534287,6 @@
             "ics_filename": "p-tange_p-tange_rue-pierre-hamer.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -534682,11 +534482,6 @@
             "name": "Rue Prince Henri",
             "ics_filename": "p-tange_p-tange_rue-prince-henri.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -534884,11 +534679,6 @@
             "ics_filename": "p-tange_p-tange_rue-prince-jean.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -535084,11 +534874,6 @@
             "name": "Rue Prinzenberg",
             "ics_filename": "p-tange_p-tange_rue-prinzenberg.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -535286,11 +535071,6 @@
             "ics_filename": "p-tange_p-tange_rue-robert-krieps.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -535486,11 +535266,6 @@
             "name": "Rue Robert Schuman",
             "ics_filename": "p-tange_p-tange_rue-robert-schuman.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -535688,11 +535463,6 @@
             "ics_filename": "p-tange_p-tange_rue-weissenbrill.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -535888,11 +535658,6 @@
             "name": "Rue d'Athus",
             "ics_filename": "p-tange_p-tange_rue-d-athus.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -536090,11 +535855,6 @@
             "ics_filename": "p-tange_p-tange_rue-de-linger.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -536290,11 +536050,6 @@
             "name": "Rue de l'Eglise",
             "ics_filename": "p-tange_p-tange_rue-de-l-eglise.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -536492,11 +536247,6 @@
             "ics_filename": "p-tange_p-tange_rue-de-l-h-tel-de-ville.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -536692,11 +536442,6 @@
             "name": "Rue de l'Indépendance",
             "ics_filename": "p-tange_p-tange_rue-de-l-ind-pendance.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -536894,11 +536639,6 @@
             "ics_filename": "p-tange_p-tange_rue-de-la-chiers.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -537094,11 +536834,6 @@
             "name": "Rue de la Liberté",
             "ics_filename": "p-tange_p-tange_rue-de-la-libert.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -537296,11 +537031,6 @@
             "ics_filename": "p-tange_p-tange_rue-de-la-paix.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -537496,11 +537226,6 @@
             "name": "Rue de la Piscine",
             "ics_filename": "p-tange_p-tange_rue-de-la-piscine.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -537698,11 +537423,6 @@
             "ics_filename": "p-tange_p-tange_rue-de-la-r-sistance.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -537898,11 +537618,6 @@
             "name": "Rue des Acacias",
             "ics_filename": "p-tange_p-tange_rue-des-acacias.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -538100,11 +537815,6 @@
             "ics_filename": "p-tange_p-tange_rue-des-alli-s.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -538300,11 +538010,6 @@
             "name": "Rue des Ateliers",
             "ics_filename": "p-tange_p-tange_rue-des-ateliers.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -538502,11 +538207,6 @@
             "ics_filename": "p-tange_p-tange_rue-des-champs.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -538702,11 +538402,6 @@
             "name": "Rue des Ecoles",
             "ics_filename": "p-tange_p-tange_rue-des-ecoles.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -538904,11 +538599,6 @@
             "ics_filename": "p-tange_p-tange_rue-des-jardins.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -539104,11 +538794,6 @@
             "name": "Rue des Promenades",
             "ics_filename": "p-tange_p-tange_rue-des-promenades.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -539306,11 +538991,6 @@
             "ics_filename": "p-tange_p-tange_rue-des-romains.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -539506,11 +539186,6 @@
             "name": "Rue du 9 Septembre 1944",
             "ics_filename": "p-tange_p-tange_rue-du-9-septembre-1944.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -539708,11 +539383,6 @@
             "ics_filename": "p-tange_p-tange_rue-du-bois.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -539908,11 +539578,6 @@
             "name": "Rue du Centenaire",
             "ics_filename": "p-tange_p-tange_rue-du-centenaire.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
@@ -540110,11 +539775,6 @@
             "ics_filename": "p-tange_p-tange_rue-du-chemin-de-fer.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -540311,11 +539971,6 @@
             "ics_filename": "p-tange_p-tange_rue-du-parc.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
-              {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -540511,11 +540166,6 @@
             "name": "Rue du Stade",
             "ics_filename": "p-tange_p-tange_rue-du-stade.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-05",
-                "jour_semaine": "Samedi",
-                "type": "Papier/Carton"
-              },
               {
                 "date_iso": "2026-09-07",
                 "jour_semaine": "Lundi",
