@@ -13690,11 +13690,6 @@
             "ics_filename": "consdorf_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-12",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-15",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -13955,11 +13950,6 @@
             "name": "Toutes les rues",
             "ics_filename": "contern_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-12",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-14",
                 "jour_semaine": "Lundi",
@@ -568201,11 +568191,6 @@
             "name": "Toutes les rues",
             "ics_filename": "schuttrange_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-12",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-16",
                 "jour_semaine": "Mercredi",
