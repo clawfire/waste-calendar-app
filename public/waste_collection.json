@@ -12275,11 +12275,6 @@
             "ics_filename": "bettembourg_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Déchets ménagers en mélange"
@@ -75020,11 +75015,6 @@
             "ics_filename": "dudelange_dudelange_am-duerf.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -75215,11 +75205,6 @@
             "name": "Am Weierchen",
             "ics_filename": "dudelange_dudelange_am-weierchen.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -75412,11 +75397,6 @@
             "ics_filename": "dudelange_dudelange_an-hauwenp-rchen.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -75607,11 +75587,6 @@
             "name": "An Hinnefen",
             "ics_filename": "dudelange_dudelange_an-hinnefen.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -75804,11 +75779,6 @@
             "ics_filename": "dudelange_dudelange_an-der-foxenhiel.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -75999,11 +75969,6 @@
             "name": "An der Soibelkaul",
             "ics_filename": "dudelange_dudelange_an-der-soibelkaul.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -76196,11 +76161,6 @@
             "ics_filename": "dudelange_dudelange_avenue-grande-duchesse-charlotte.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -76391,11 +76351,6 @@
             "name": "Cité Aloyse Meyer",
             "ics_filename": "dudelange_dudelange_cit-aloyse-meyer.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -76588,11 +76543,6 @@
             "ics_filename": "dudelange_dudelange_ginzebierg.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -76783,11 +76733,6 @@
             "name": "In Boujel",
             "ics_filename": "dudelange_dudelange_in-boujel.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -76980,11 +76925,6 @@
             "ics_filename": "dudelange_dudelange_op-lenkeschl-i.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -77175,11 +77115,6 @@
             "name": "Op der Nuddelsfabrik",
             "ics_filename": "dudelange_dudelange_op-der-nuddelsfabrik.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -77408,11 +77343,6 @@
             "ics_filename": "dudelange_dudelange_place-gymnich.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -77603,11 +77533,6 @@
             "name": "Place Thierry Van Werveke",
             "ics_filename": "dudelange_dudelange_place-thierry-van-werveke.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
@@ -77800,11 +77725,6 @@
             "ics_filename": "dudelange_dudelange_place-de-l-h-tel-de-ville.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -77995,11 +77915,6 @@
             "name": "Route de Bettembourg",
             "ics_filename": "dudelange_dudelange_route-de-bettembourg.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -78192,11 +78107,6 @@
             "ics_filename": "dudelange_dudelange_route-de-boudersberg.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -78387,11 +78297,6 @@
             "name": "Route de Burange",
             "ics_filename": "dudelange_dudelange_route-de-burange.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -78584,11 +78489,6 @@
             "ics_filename": "dudelange_dudelange_route-de-kayl.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
@@ -78779,11 +78679,6 @@
             "name": "Route de Luxembourg",
             "ics_filename": "dudelange_dudelange_route-de-luxembourg.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -78976,11 +78871,6 @@
             "ics_filename": "dudelange_dudelange_route-de-noertzange.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -79171,11 +79061,6 @@
             "name": "Route de Thionville",
             "ics_filename": "dudelange_dudelange_route-de-thionville.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
@@ -79368,11 +79253,6 @@
             "ics_filename": "dudelange_dudelange_route-de-volmerange.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -79563,11 +79443,6 @@
             "name": "Route de Zoufftgen",
             "ics_filename": "dudelange_dudelange_route-de-zoufftgen.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -79760,11 +79635,6 @@
             "ics_filename": "dudelange_dudelange_ruckesch-g-ssel.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -79955,11 +79825,6 @@
             "name": "Rue Abbé Lemire",
             "ics_filename": "dudelange_dudelange_rue-abb-lemire.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -80152,11 +80017,6 @@
             "ics_filename": "dudelange_dudelange_rue-albert-cremmer.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
@@ -80347,11 +80207,6 @@
             "name": "Rue Alexander Fleming",
             "ics_filename": "dudelange_dudelange_rue-alexander-fleming.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -80544,11 +80399,6 @@
             "ics_filename": "dudelange_dudelange_rue-aloyse-kayser.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
@@ -80740,11 +80590,6 @@
             "ics_filename": "dudelange_dudelange_rue-alphonse-beno-t.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -80935,11 +80780,6 @@
             "name": "Rue André Gide",
             "ics_filename": "dudelange_dudelange_rue-andr-gide.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -81168,11 +81008,6 @@
             "ics_filename": "dudelange_dudelange_rue-angeldall.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -81363,11 +81198,6 @@
             "name": "Rue Antoine Zinnen",
             "ics_filename": "dudelange_dudelange_rue-antoine-zinnen.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -81560,11 +81390,6 @@
             "ics_filename": "dudelange_dudelange_rue-auguste-liesch.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -81755,11 +81580,6 @@
             "name": "Rue Baltzing",
             "ics_filename": "dudelange_dudelange_rue-baltzing.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -81952,11 +81772,6 @@
             "ics_filename": "dudelange_dudelange_rue-bannent.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -82147,11 +81962,6 @@
             "name": "Rue Batty Weber",
             "ics_filename": "dudelange_dudelange_rue-batty-weber.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
@@ -82344,11 +82154,6 @@
             "ics_filename": "dudelange_dudelange_rue-belair.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -82539,11 +82344,6 @@
             "name": "Rue Boitenberg",
             "ics_filename": "dudelange_dudelange_rue-boitenberg.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -82736,11 +82536,6 @@
             "ics_filename": "dudelange_dudelange_rue-ceca.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -82931,11 +82726,6 @@
             "name": "Rue Comte de Bertier",
             "ics_filename": "dudelange_dudelange_rue-comte-de-bertier.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -83128,11 +82918,6 @@
             "ics_filename": "dudelange_dudelange_rue-curie.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -83323,11 +83108,6 @@
             "name": "Rue Dicks",
             "ics_filename": "dudelange_dudelange_rue-dicks.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
@@ -83520,11 +83300,6 @@
             "ics_filename": "dudelange_dudelange_rue-ditzenheck.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -83715,11 +83490,6 @@
             "name": "Rue Dominique Lang",
             "ics_filename": "dudelange_dudelange_rue-dominique-lang.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -83912,11 +83682,6 @@
             "ics_filename": "dudelange_dudelange_rue-dr-albert-schweitzer.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -84107,11 +83872,6 @@
             "name": "Rue Dr Orphée Bernard",
             "ics_filename": "dudelange_dudelange_rue-dr-orph-e-bernard.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -84304,11 +84064,6 @@
             "ics_filename": "dudelange_dudelange_rue-dr-welter.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -84499,11 +84254,6 @@
             "name": "Rue Edison",
             "ics_filename": "dudelange_dudelange_rue-edison.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -84696,11 +84446,6 @@
             "ics_filename": "dudelange_dudelange_rue-emely-arnoldy-loos.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -84891,11 +84636,6 @@
             "name": "Rue Emile Ludwig",
             "ics_filename": "dudelange_dudelange_rue-emile-ludwig.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -85088,11 +84828,6 @@
             "ics_filename": "dudelange_dudelange_rue-emile-mayrisch.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -85283,11 +85018,6 @@
             "name": "Rue Eugène Conrad",
             "ics_filename": "dudelange_dudelange_rue-eug-ne-conrad.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -85480,11 +85210,6 @@
             "ics_filename": "dudelange_dudelange_rue-fany-schumacher.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -85675,11 +85400,6 @@
             "name": "Rue Gaffelt",
             "ics_filename": "dudelange_dudelange_rue-gaffelt.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
@@ -85872,11 +85592,6 @@
             "ics_filename": "dudelange_dudelange_rue-gare-usines.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
@@ -86067,11 +85782,6 @@
             "name": "Rue Gaston Barbanson",
             "ics_filename": "dudelange_dudelange_rue-gaston-barbanson.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -86264,11 +85974,6 @@
             "ics_filename": "dudelange_dudelange_rue-goethe.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -86459,11 +86164,6 @@
             "name": "Rue Grand-Duc Adolphe",
             "ics_filename": "dudelange_dudelange_rue-grand-duc-adolphe.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
@@ -86656,11 +86356,6 @@
             "ics_filename": "dudelange_dudelange_rue-hanzenthal.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -86851,11 +86546,6 @@
             "name": "Rue Henri Bessemer",
             "ics_filename": "dudelange_dudelange_rue-henri-bessemer.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -87048,11 +86738,6 @@
             "ics_filename": "dudelange_dudelange_rue-henri-dunant.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -87243,11 +86928,6 @@
             "name": "Rue Hubert Clement",
             "ics_filename": "dudelange_dudelange_rue-hubert-clement.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -87440,11 +87120,6 @@
             "ics_filename": "dudelange_dudelange_rue-jacques-reifenberg.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -87635,11 +87310,6 @@
             "name": "Rue Jean Baptiste Wolff",
             "ics_filename": "dudelange_dudelange_rue-jean-baptiste-wolff.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -87832,11 +87502,6 @@
             "ics_filename": "dudelange_dudelange_rue-jean-berchem.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -88027,11 +87692,6 @@
             "name": "Rue Jean Eiffes",
             "ics_filename": "dudelange_dudelange_rue-jean-eiffes.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -88224,11 +87884,6 @@
             "ics_filename": "dudelange_dudelange_rue-jean-friedrich.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
@@ -88419,11 +88074,6 @@
             "name": "Rue Jean Jaurès",
             "ics_filename": "dudelange_dudelange_rue-jean-jaur-s.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
@@ -88616,11 +88266,6 @@
             "ics_filename": "dudelange_dudelange_rue-jean-mylius.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -88811,11 +88456,6 @@
             "name": "Rue Jean Origer",
             "ics_filename": "dudelange_dudelange_rue-jean-origer.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -89008,11 +88648,6 @@
             "ics_filename": "dudelange_dudelange_rue-jean-simon.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -89204,11 +88839,6 @@
             "ics_filename": "dudelange_dudelange_rue-jean-wolter.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -89369,11 +88999,6 @@
             "name": "Rue Jean-Pierre Bausch",
             "ics_filename": "dudelange_dudelange_rue-jean-pierre-bausch.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -89566,11 +89191,6 @@
             "ics_filename": "dudelange_dudelange_rue-karl-marx.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -89761,11 +89381,6 @@
             "name": "Rue Large",
             "ics_filename": "dudelange_dudelange_rue-large.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -89958,11 +89573,6 @@
             "ics_filename": "dudelange_dudelange_rue-laurent-menager.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -90153,11 +89763,6 @@
             "name": "Rue Lentz",
             "ics_filename": "dudelange_dudelange_rue-lentz.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -90350,11 +89955,6 @@
             "ics_filename": "dudelange_dudelange_rue-louis-rech.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -90545,11 +90145,6 @@
             "name": "Rue Lucien Wercollier",
             "ics_filename": "dudelange_dudelange_rue-lucien-wercollier.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -90742,11 +90337,6 @@
             "ics_filename": "dudelange_dudelange_rue-lumi-re.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -90937,11 +90527,6 @@
             "name": "Rue Léon Weirich",
             "ics_filename": "dudelange_dudelange_rue-l-on-weirich.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -91134,11 +90719,6 @@
             "ics_filename": "dudelange_dudelange_rue-marcel-schmit.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -91330,11 +90910,6 @@
             "ics_filename": "dudelange_dudelange_rue-marie-berg-clausse.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -91525,11 +91100,6 @@
             "name": "Rue Marie Carmes-Heffenisch",
             "ics_filename": "dudelange_dudelange_rue-marie-carmes-heffenisch.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -91758,11 +91328,6 @@
             "ics_filename": "dudelange_dudelange_rue-marthe-bigelbach-fohrmann.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -91953,11 +91518,6 @@
             "name": "Rue Mathias Cungs",
             "ics_filename": "dudelange_dudelange_rue-mathias-cungs.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -92150,11 +91710,6 @@
             "ics_filename": "dudelange_dudelange_rue-michel-gindt.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
@@ -92345,11 +91900,6 @@
             "name": "Rue Michel Rasquin",
             "ics_filename": "dudelange_dudelange_rue-michel-rasquin.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -92542,11 +92092,6 @@
             "ics_filename": "dudelange_dudelange_rue-michel-rodange.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -92737,11 +92282,6 @@
             "name": "Rue Milly Steinmetz-Ludwig",
             "ics_filename": "dudelange_dudelange_rue-milly-steinmetz-ludwig.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -92934,11 +92474,6 @@
             "ics_filename": "dudelange_dudelange_rue-mme-mayrisch-de-st-hubert.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -93129,11 +92664,6 @@
             "name": "Rue Nic Bodry",
             "ics_filename": "dudelange_dudelange_rue-nic-bodry.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -93326,11 +92856,6 @@
             "ics_filename": "dudelange_dudelange_rue-nic-conrady.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -93521,11 +93046,6 @@
             "name": "Rue Nic. Biever",
             "ics_filename": "dudelange_dudelange_rue-nic-biever.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -93718,11 +93238,6 @@
             "ics_filename": "dudelange_dudelange_rue-norbert-metz.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -93913,11 +93428,6 @@
             "name": "Rue Pasteur",
             "ics_filename": "dudelange_dudelange_rue-pasteur.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -94110,11 +93620,6 @@
             "ics_filename": "dudelange_dudelange_rue-pierre-dupong.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -94305,11 +93810,6 @@
             "name": "Rue Pierre Krier",
             "ics_filename": "dudelange_dudelange_rue-pierre-krier.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -94502,11 +94002,6 @@
             "ics_filename": "dudelange_dudelange_rue-pierre-theis.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -94697,11 +94192,6 @@
             "name": "Rue Raoul Follereau",
             "ics_filename": "dudelange_dudelange_rue-raoul-follereau.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -94894,11 +94384,6 @@
             "ics_filename": "dudelange_dudelange_rue-reiteschkopp.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
@@ -95089,11 +94574,6 @@
             "name": "Rue René Hartmann",
             "ics_filename": "dudelange_dudelange_rue-ren-hartmann.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -95286,11 +94766,6 @@
             "ics_filename": "dudelange_dudelange_rue-ribeschpont.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -95481,11 +94956,6 @@
             "name": "Rue Robert Schuman",
             "ics_filename": "dudelange_dudelange_rue-robert-schuman.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -95678,11 +95148,6 @@
             "ics_filename": "dudelange_dudelange_rue-ry-boissaux.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -95873,11 +95338,6 @@
             "name": "Rue Révérend Père Jacques Thiel",
             "ics_filename": "dudelange_dudelange_rue-r-v-rend-p-re-jacques-thiel.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -96070,11 +95530,6 @@
             "ics_filename": "dudelange_dudelange_rue-schiller.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -96265,11 +95720,6 @@
             "name": "Rue Schortgen",
             "ics_filename": "dudelange_dudelange_rue-schortgen.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
@@ -96462,11 +95912,6 @@
             "ics_filename": "dudelange_dudelange_rue-sidney-thomas.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -96657,11 +96102,6 @@
             "name": "Rue St Martin",
             "ics_filename": "dudelange_dudelange_rue-st-martin.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
@@ -96854,11 +96294,6 @@
             "ics_filename": "dudelange_dudelange_rue-ste-barbe.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
@@ -97050,11 +96485,6 @@
             "ics_filename": "dudelange_dudelange_rue-tattenberg.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
@@ -97245,11 +96675,6 @@
             "name": "Rue Théodore Thiel",
             "ics_filename": "dudelange_dudelange_rue-th-odore-thiel.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -97478,11 +96903,6 @@
             "ics_filename": "dudelange_dudelange_rue-verte.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -97673,11 +97093,6 @@
             "name": "Rue Victor Tesch",
             "ics_filename": "dudelange_dudelange_rue-victor-tesch.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -97870,11 +97285,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-hellange.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -98065,11 +97475,6 @@
             "name": "Rue de Lauenburg",
             "ics_filename": "dudelange_dudelange_rue-de-lauenburg.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -98262,11 +97667,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-lebork.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -98457,11 +97857,6 @@
             "name": "Rue de Manom",
             "ics_filename": "dudelange_dudelange_rue-de-manom.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -98654,11 +98049,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-l-abattoir.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -98849,11 +98239,6 @@
             "name": "Rue de l'Acier",
             "ics_filename": "dudelange_dudelange_rue-de-l-acier.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
@@ -99046,11 +98431,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-l-eau.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -99241,11 +98621,6 @@
             "name": "Rue de l'Eglise",
             "ics_filename": "dudelange_dudelange_rue-de-l-eglise.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -99438,11 +98813,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-l-etang.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -99633,11 +99003,6 @@
             "name": "Rue de l'Hôpital",
             "ics_filename": "dudelange_dudelange_rue-de-l-h-pital.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
@@ -99830,11 +99195,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-l-ind-pendance.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -100025,11 +99385,6 @@
             "name": "Rue de la Brasserie",
             "ics_filename": "dudelange_dudelange_rue-de-la-brasserie.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -100222,11 +99577,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-la-chapelle.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -100417,11 +99767,6 @@
             "name": "Rue de la Fontaine",
             "ics_filename": "dudelange_dudelange_rue-de-la-fontaine.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
@@ -100614,11 +99959,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-la-for-t.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -100809,11 +100149,6 @@
             "name": "Rue de la Libération",
             "ics_filename": "dudelange_dudelange_rue-de-la-lib-ration.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
@@ -101006,11 +100341,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-la-paix.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -101201,11 +100531,6 @@
             "name": "Rue de la Rivière",
             "ics_filename": "dudelange_dudelange_rue-de-la-rivi-re.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
@@ -101398,11 +100723,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-la-tour.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
@@ -101594,11 +100914,6 @@
             "ics_filename": "dudelange_dudelange_rue-de-la-vall-e.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
@@ -101789,11 +101104,6 @@
             "name": "Rue des Aubépines",
             "ics_filename": "dudelange_dudelange_rue-des-aub-pines.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
@@ -102022,11 +101332,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-bobineurs.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -102217,11 +101522,6 @@
             "name": "Rue des Bouleaux",
             "ics_filename": "dudelange_dudelange_rue-des-bouleaux.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -102414,11 +101714,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-champs.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -102609,11 +101904,6 @@
             "name": "Rue des Chaudronniers",
             "ics_filename": "dudelange_dudelange_rue-des-chaudronniers.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -102806,11 +102096,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-coquelicots.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -103001,11 +102286,6 @@
             "name": "Rue des Ecoles",
             "ics_filename": "dudelange_dudelange_rue-des-ecoles.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
@@ -103198,11 +102478,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-fleurs.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -103393,11 +102668,6 @@
             "name": "Rue des Fondeurs",
             "ics_filename": "dudelange_dudelange_rue-des-fondeurs.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -103590,11 +102860,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-forgerons.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -103785,11 +103050,6 @@
             "name": "Rue des Gaulois",
             "ics_filename": "dudelange_dudelange_rue-des-gaulois.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -103982,11 +103242,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-gen-ts.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
@@ -104177,11 +103432,6 @@
             "name": "Rue des Lamineurs",
             "ics_filename": "dudelange_dudelange_rue-des-lamineurs.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -104374,11 +103624,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-marguerites.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -104569,11 +103814,6 @@
             "name": "Rue des Minières",
             "ics_filename": "dudelange_dudelange_rue-des-mini-res.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
@@ -104766,11 +104006,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-modeleurs.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -104961,11 +104196,6 @@
             "name": "Rue des Mouleurs",
             "ics_filename": "dudelange_dudelange_rue-des-mouleurs.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -105158,11 +104388,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-poseurs.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -105353,11 +104578,6 @@
             "name": "Rue des Prunelles",
             "ics_filename": "dudelange_dudelange_rue-des-prunelles.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-24",
                 "jour_semaine": "Jeudi",
@@ -105550,11 +104770,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-pr-s.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -105745,11 +104960,6 @@
             "name": "Rue des Romains",
             "ics_filename": "dudelange_dudelange_rue-des-romains.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -105942,11 +105152,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-saules.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -106137,11 +105342,6 @@
             "name": "Rue des Traceurs",
             "ics_filename": "dudelange_dudelange_rue-des-traceurs.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -106334,11 +105534,6 @@
             "ics_filename": "dudelange_dudelange_rue-des-violettes.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -106529,11 +105724,6 @@
             "name": "Rue du Berger",
             "ics_filename": "dudelange_dudelange_rue-du-berger.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -106726,11 +105916,6 @@
             "ics_filename": "dudelange_dudelange_rue-du-centenaire.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -106921,11 +106106,6 @@
             "name": "Rue du Chemin de Fer",
             "ics_filename": "dudelange_dudelange_rue-du-chemin-de-fer.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
@@ -107118,11 +106298,6 @@
             "ics_filename": "dudelange_dudelange_rue-du-ch-teau-fort.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -107314,11 +106489,6 @@
             "ics_filename": "dudelange_dudelange_rue-du-commerce.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -107509,11 +106679,6 @@
             "name": "Rue du Mont St Jean",
             "ics_filename": "dudelange_dudelange_rue-du-mont-st-jean.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -107742,11 +106907,6 @@
             "ics_filename": "dudelange_dudelange_rue-du-nord.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -107937,11 +107097,6 @@
             "name": "Rue du Parc",
             "ics_filename": "dudelange_dudelange_rue-du-parc.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -108134,11 +107289,6 @@
             "ics_filename": "dudelange_dudelange_rue-du-stade-john-f-kennedy.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -108329,11 +107479,6 @@
             "name": "Rue du Stade Jos Nosbaum",
             "ics_filename": "dudelange_dudelange_rue-du-stade-jos-nosbaum.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -108526,11 +107671,6 @@
             "ics_filename": "dudelange_dudelange_schwaarze-wee.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
@@ -108721,11 +107861,6 @@
             "name": "Um Kräizbierg",
             "ics_filename": "dudelange_dudelange_um-kr-izbierg.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-25",
                 "jour_semaine": "Vendredi",
@@ -217035,11 +216170,6 @@
             "ics_filename": "ettelbruck_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
@@ -217386,11 +216516,6 @@
             "name": "Toutes les rues",
             "ics_filename": "fischbach_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -218905,11 +218030,6 @@
             "name": "Toutes les rues",
             "ics_filename": "frisange_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-23",
                 "jour_semaine": "Mercredi",
@@ -223497,11 +222617,6 @@
             "name": "Toutes les rues",
             "ics_filename": "kayl_no-loc_toutes-les-rues.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
@@ -515862,11 +514977,6 @@
             "ics_filename": "mertert_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -519572,6 +518682,11 @@
                 "date_iso": "2026-12-16",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -523497,6 +522612,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -523693,6 +522813,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -523889,6 +523014,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -524085,6 +523215,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -524281,6 +523416,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -524477,6 +523617,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -524673,6 +523818,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -524869,6 +524019,11 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -525065,6 +524220,11 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -525261,6 +524421,11 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -525457,6 +524622,11 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -525653,6 +524823,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -525849,6 +525024,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -526045,6 +525225,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -526241,6 +525426,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -526437,6 +525627,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -526633,6 +525828,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -526829,6 +526029,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -527025,6 +526230,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -527221,6 +526431,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -527417,6 +526632,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -527613,6 +526833,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -527809,6 +527034,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -528005,6 +527235,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -528201,6 +527436,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -528397,6 +527637,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -528593,6 +527838,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -528789,6 +528039,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -528985,6 +528240,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -529181,6 +528441,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -529377,6 +528642,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -529573,6 +528843,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -529769,6 +529044,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -529965,6 +529245,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -530161,6 +529446,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -530357,6 +529647,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -530553,6 +529848,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -530749,6 +530049,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -530945,6 +530250,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -531141,6 +530451,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -531337,6 +530652,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -531533,6 +530853,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -531729,6 +531054,11 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -531925,6 +531255,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -532121,6 +531456,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -532317,6 +531657,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -532513,6 +531858,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -532709,6 +532059,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -532905,6 +532260,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -533101,6 +532461,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -533297,6 +532662,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -533493,6 +532863,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -533689,6 +533064,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -533885,6 +533265,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -534081,6 +533466,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -534277,6 +533667,11 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -534473,6 +533868,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -534669,6 +534069,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -534865,6 +534270,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -535061,6 +534471,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -535257,6 +534672,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -535453,6 +534873,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -535649,6 +535074,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -535845,6 +535275,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -536041,6 +535476,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -536237,6 +535677,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -536433,6 +535878,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -536629,6 +536079,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           },
@@ -536825,6 +536280,11 @@
                 "date_iso": "2026-12-15",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-19",
+                "jour_semaine": "Samedi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -548980,11 +548440,6 @@
             "ics_filename": "remich_remich_am-lauschlach.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -549235,11 +548690,6 @@
             "name": "Avenue Lamort-Velter",
             "ics_filename": "remich_remich_avenue-lamort-velter.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -549492,11 +548942,6 @@
             "ics_filename": "remich_remich_chemin-des-vignes.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -549747,11 +549192,6 @@
             "name": "Esplanade",
             "ics_filename": "remich_remich_esplanade.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -550004,11 +549444,6 @@
             "ics_filename": "remich_remich_impasse-jaeger.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -550259,11 +549694,6 @@
             "name": "Impasse St Dominique",
             "ics_filename": "remich_remich_impasse-st-dominique.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -550516,11 +549946,6 @@
             "ics_filename": "remich_remich_impasse-st-fran-ois.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -550771,11 +550196,6 @@
             "name": "Impasse du Dé",
             "ics_filename": "remich_remich_impasse-du-d.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -551028,11 +550448,6 @@
             "ics_filename": "remich_remich_mont-e-st-urbain.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -551283,11 +550698,6 @@
             "name": "Montée de l'Eglise",
             "ics_filename": "remich_remich_mont-e-de-l-eglise.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -551540,11 +550950,6 @@
             "ics_filename": "remich_remich_mont-e-de-la-chapelle.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -551795,11 +551200,6 @@
             "name": "Op der Kopp",
             "ics_filename": "remich_remich_op-der-kopp.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -552052,11 +551452,6 @@
             "ics_filename": "remich_remich_place-nico-klopp.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -552307,11 +551702,6 @@
             "name": "Place du Marché",
             "ics_filename": "remich_remich_place-du-march.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -552564,11 +551954,6 @@
             "ics_filename": "remich_remich_quai-de-la-moselle.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -552819,11 +552204,6 @@
             "name": "Route de Luxembourg",
             "ics_filename": "remich_remich_route-de-luxembourg.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -553076,11 +552456,6 @@
             "ics_filename": "remich_remich_route-de-mondorf.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -553331,11 +552706,6 @@
             "name": "Route de Stadtbredimus",
             "ics_filename": "remich_remich_route-de-stadtbredimus.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -553588,11 +552958,6 @@
             "ics_filename": "remich_remich_route-de-l-europe.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -553843,11 +553208,6 @@
             "name": "Route du Vin",
             "ics_filename": "remich_remich_route-du-vin.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -554100,11 +553460,6 @@
             "ics_filename": "remich_remich_rue-anny-blau.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -554355,11 +553710,6 @@
             "name": "Rue Dauvelt",
             "ics_filename": "remich_remich_rue-dauvelt.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -554612,11 +553962,6 @@
             "ics_filename": "remich_remich_rue-dicks.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -554867,11 +554212,6 @@
             "name": "Rue Enz",
             "ics_filename": "remich_remich_rue-enz.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -555124,11 +554464,6 @@
             "ics_filename": "remich_remich_rue-foascht.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -555379,11 +554714,6 @@
             "name": "Rue Hierzigsberg",
             "ics_filename": "remich_remich_rue-hierzigsberg.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -555636,11 +554966,6 @@
             "ics_filename": "remich_remich_rue-janglisbunn.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -555891,11 +555216,6 @@
             "name": "Rue Neuve",
             "ics_filename": "remich_remich_rue-neuve.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -556148,11 +555468,6 @@
             "ics_filename": "remich_remich_rue-nic-kieffer.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -556403,11 +555718,6 @@
             "name": "Rue Olek",
             "ics_filename": "remich_remich_rue-olek.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -556660,11 +555970,6 @@
             "ics_filename": "remich_remich_rue-st-cunibert.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -556915,11 +556220,6 @@
             "name": "Rue St Nicolas",
             "ics_filename": "remich_remich_rue-st-nicolas.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -557172,11 +556472,6 @@
             "ics_filename": "remich_remich_rue-wenkel.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -557427,11 +556722,6 @@
             "name": "Rue de Macher",
             "ics_filename": "remich_remich_rue-de-macher.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -557684,11 +556974,6 @@
             "ics_filename": "remich_remich_rue-de-l-eglise.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -557939,11 +557224,6 @@
             "name": "Rue de l'Hospice",
             "ics_filename": "remich_remich_rue-de-l-hospice.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -558196,11 +557476,6 @@
             "ics_filename": "remich_remich_rue-de-la-cit.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -558451,11 +557726,6 @@
             "name": "Rue de la Corniche",
             "ics_filename": "remich_remich_rue-de-la-corniche.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -558708,11 +557978,6 @@
             "ics_filename": "remich_remich_rue-de-la-gare.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -558963,11 +558228,6 @@
             "name": "Rue de la Sapinière",
             "ics_filename": "remich_remich_rue-de-la-sapini-re.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -559220,11 +558480,6 @@
             "ics_filename": "remich_remich_rue-des-b-teliers.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -559475,11 +558730,6 @@
             "name": "Rue des Cerisiers",
             "ics_filename": "remich_remich_rue-des-cerisiers.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -559732,11 +558982,6 @@
             "ics_filename": "remich_remich_rue-des-champs.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -559987,11 +559232,6 @@
             "name": "Rue des Eglantiers",
             "ics_filename": "remich_remich_rue-des-eglantiers.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -560244,11 +559484,6 @@
             "ics_filename": "remich_remich_rue-des-jardins.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -560499,11 +559734,6 @@
             "name": "Rue des Pommiers",
             "ics_filename": "remich_remich_rue-des-pommiers.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -560756,11 +559986,6 @@
             "ics_filename": "remich_remich_rue-des-pr-s.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -561011,11 +560236,6 @@
             "name": "Rue des Pêcheurs",
             "ics_filename": "remich_remich_rue-des-p-cheurs.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -561268,11 +560488,6 @@
             "ics_filename": "remich_remich_rue-des-vergers.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -561523,11 +560738,6 @@
             "name": "Rue du Belvédère",
             "ics_filename": "remich_remich_rue-du-belv-d-re.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -561780,11 +560990,6 @@
             "ics_filename": "remich_remich_rue-du-bois.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -562035,11 +561240,6 @@
             "name": "Rue du Camping",
             "ics_filename": "remich_remich_rue-du-camping.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -562292,11 +561492,6 @@
             "ics_filename": "remich_remich_rue-du-ch-teau.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -562547,11 +561742,6 @@
             "name": "Rue du Pont",
             "ics_filename": "remich_remich_rue-du-pont.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -562804,11 +561994,6 @@
             "ics_filename": "remich_remich_ruelle-des-tanneurs.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
@@ -563059,11 +562244,6 @@
             "name": "Vieux Quartier",
             "ics_filename": "remich_remich_vieux-quartier.ics",
             "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
               {
                 "date_iso": "2026-09-22",
                 "jour_semaine": "Mardi",
@@ -563326,11 +562506,6 @@
             "ics_filename": "roeser_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
                 "date_iso": "2026-09-21",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
@@ -563549,252 +562724,6 @@
   {
     "commune": "Rumelange",
     "localities": [
-      {
-        "name": "Rumelange",
-        "streets": [
-          {
-            "name": "Toutes les rues",
-            "ics_filename": "rumelange_rumelange_toutes-les-rues.ics",
-            "collectes": [
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              },
-              {
-                "date_iso": "2026-09-19",
-                "jour_semaine": "Samedi",
-                "type": "Vieux vêtements"
-              }
-            ]
-          }
-        ]
-      },
       {
         "name": null,
         "streets": [
