@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Im Bouseberg
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
-DTSTAMP:20260921T032518Z
+DTSTAMP:20260922T032423Z
 UID:09dabf60fcfec6f0766c67bc8d743c86@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED

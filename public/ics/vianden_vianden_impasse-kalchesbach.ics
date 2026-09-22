@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Impasse Kalchesbach
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
-DTSTAMP:20260921T032518Z
+DTSTAMP:20260922T032423Z
 UID:103abb0b55b459bca69393bb2358cc88@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
