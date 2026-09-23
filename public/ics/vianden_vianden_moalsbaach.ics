@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Moalsbaach
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
-DTSTAMP:20260922T032423Z
+DTSTAMP:20260923T032527Z
 UID:8fd0dd2eff9388b7fefe5392a5a91cfa@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED

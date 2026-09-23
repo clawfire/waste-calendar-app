@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Vianden - Tiefendelt
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
-DTSTAMP:20260922T032423Z
+DTSTAMP:20260923T032527Z
 UID:ef35b184f40fbe6b327e6caa03f95f5b@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
