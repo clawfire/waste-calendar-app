@@ -70356,6 +70356,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -70532,6 +70547,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -71090,6 +71120,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -71648,6 +71693,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -71874,6 +71934,11 @@
               {
                 "date_iso": "2026-12-11",
                 "jour_semaine": "Vendredi",
+                "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
                 "type": "Valorlux"
               }
             ]
@@ -74152,6 +74217,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -75283,6 +75363,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -75459,6 +75554,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -75494,6 +75604,11 @@
               {
                 "date_iso": "2026-12-11",
                 "jour_semaine": "Vendredi",
+                "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
                 "type": "Valorlux"
               }
             ]
@@ -75862,6 +75977,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -76802,6 +76932,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -76978,6 +77123,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -78109,6 +78269,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -78858,6 +79033,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -80562,6 +80752,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -80929,6 +81134,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -81487,6 +81707,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -83000,6 +83235,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -83523,6 +83773,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -84081,6 +84346,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -84257,6 +84537,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -84624,6 +84919,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -84991,6 +85301,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -85358,6 +85683,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -85534,6 +85874,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -85751,6 +86106,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -85927,6 +86297,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -86294,6 +86679,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -86470,6 +86870,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -86646,6 +87061,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -86822,6 +87252,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -87189,6 +87634,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -87365,6 +87825,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -89451,6 +89926,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -89818,6 +90308,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -92900,6 +93405,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -93458,6 +93978,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -94207,6 +94742,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -94574,6 +95124,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -96701,6 +97266,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -97450,6 +98030,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -101678,6 +102273,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -102045,6 +102655,21 @@
                 "date_iso": "2026-12-18",
                 "jour_semaine": "Vendredi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -102081,6 +102706,11 @@
                 "date_iso": "2026-12-11",
                 "jour_semaine": "Vendredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
+                "type": "Valorlux"
               }
             ]
           },
@@ -102116,6 +102746,11 @@
               {
                 "date_iso": "2026-12-11",
                 "jour_semaine": "Vendredi",
+                "type": "Valorlux"
+              },
+              {
+                "date_iso": "2026-12-27",
+                "jour_semaine": "Dimanche",
                 "type": "Valorlux"
               }
             ]
