@@ -138,6 +138,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -10011,6 +10016,11 @@
                 "date_iso": "2027-01-15",
                 "jour_semaine": "Vendredi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -10564,6 +10574,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -10926,6 +10941,11 @@
                 "date_iso": "2027-01-15",
                 "jour_semaine": "Vendredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -11283,6 +11303,11 @@
                 "date_iso": "2027-01-08",
                 "jour_semaine": "Vendredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -12952,6 +12977,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -13213,6 +13243,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -13454,6 +13489,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -13715,6 +13755,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -13976,6 +14021,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -14217,6 +14267,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -14441,6 +14496,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -14669,6 +14729,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -14893,6 +14958,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -15156,6 +15226,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -15417,6 +15492,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -15678,6 +15758,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -15939,6 +16024,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -16180,6 +16270,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -16441,6 +16536,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -16702,6 +16802,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -16926,6 +17031,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -17189,6 +17299,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -17413,6 +17528,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -17676,6 +17796,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -17902,6 +18027,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -18126,6 +18256,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -18389,6 +18524,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -18630,6 +18770,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -18871,6 +19016,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -19112,6 +19262,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -19353,6 +19508,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -19577,6 +19737,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -19840,6 +20005,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -20066,6 +20236,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -20290,6 +20465,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -20533,6 +20713,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -20757,6 +20942,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -21000,6 +21190,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -21411,6 +21606,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -21635,6 +21835,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -21878,6 +22083,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -22102,6 +22312,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -22330,6 +22545,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -22554,6 +22774,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -22817,6 +23042,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -23041,6 +23271,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -23304,6 +23539,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -23528,6 +23768,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -23756,6 +24001,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -23982,6 +24232,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -24206,6 +24461,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -24469,6 +24729,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -24693,6 +24958,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -24921,6 +25191,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -25145,6 +25420,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -25388,6 +25668,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -25629,6 +25914,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -25890,6 +26180,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -26114,6 +26409,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -26377,6 +26677,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -26603,6 +26908,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -26827,6 +27137,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -27090,6 +27405,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -27314,6 +27634,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -27542,6 +27867,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -27766,6 +28096,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -27994,6 +28329,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -28218,6 +28558,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -28461,6 +28806,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -28722,6 +29072,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -28946,6 +29301,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -29209,6 +29569,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -29433,6 +29798,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -29696,6 +30066,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -29957,6 +30332,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -30218,6 +30598,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -30479,6 +30864,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -30703,6 +31093,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -30931,6 +31326,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -31155,6 +31555,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -31383,6 +31788,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -31607,6 +32017,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -31835,6 +32250,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -32059,6 +32479,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -32322,6 +32747,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -32583,6 +33013,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -32809,6 +33244,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -33033,6 +33473,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -33296,6 +33741,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -33520,6 +33970,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -33748,6 +34203,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -33972,6 +34432,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -34215,6 +34680,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -34476,6 +34946,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -34737,6 +35212,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -34998,6 +35478,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -35259,6 +35744,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -35520,6 +36010,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -35744,6 +36239,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -36007,6 +36507,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -36268,6 +36773,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -36492,6 +37002,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -36755,6 +37270,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -36979,6 +37499,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -37242,6 +37767,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -37466,6 +37996,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -37729,6 +38264,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -37990,6 +38530,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -38251,6 +38796,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           }
@@ -38482,6 +39032,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -38706,6 +39261,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -38934,6 +39494,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -39158,6 +39723,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -39386,6 +39956,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -39610,6 +40185,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -39838,6 +40418,11 @@
                 "date_iso": "2027-01-11",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -40062,6 +40647,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -40515,6 +41105,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -40776,6 +41371,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -41037,6 +41637,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -41298,6 +41903,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -41559,6 +42169,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -41820,6 +42435,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -42081,6 +42701,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -42342,6 +42967,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -42603,6 +43233,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -42864,6 +43499,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -43125,6 +43765,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -43386,6 +44031,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -43647,6 +44297,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -43908,6 +44563,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -44169,6 +44829,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -44430,6 +45095,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -44691,6 +45361,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -44952,6 +45627,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -45213,6 +45893,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -45474,6 +46159,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -45735,6 +46425,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -45996,6 +46691,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -46257,6 +46957,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -46518,6 +47223,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -46779,6 +47489,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -47040,6 +47755,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -47301,6 +48021,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -47562,6 +48287,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -47823,6 +48553,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -48084,6 +48819,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -48345,6 +49085,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -48606,6 +49351,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -48867,6 +49617,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -49128,6 +49883,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -49389,6 +50149,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -49650,6 +50415,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -49911,6 +50681,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -50172,6 +50947,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -50433,6 +51213,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -50694,6 +51479,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -50955,6 +51745,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -51216,6 +52011,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -51477,6 +52277,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -51738,6 +52543,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -51999,6 +52809,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -52260,6 +53075,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -52521,6 +53341,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -52782,6 +53607,11 @@
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -53043,6 +53873,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -53304,6 +54139,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -53565,6 +54405,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -53826,6 +54671,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           }
@@ -54072,6 +54922,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -54498,6 +55353,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -54739,6 +55599,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -54980,6 +55845,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -55221,6 +56091,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -55462,6 +56337,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -55703,6 +56583,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -55944,6 +56829,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -56185,6 +57075,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -56426,6 +57321,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -56667,6 +57567,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -56908,6 +57813,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -57149,6 +58059,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -57390,6 +58305,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -57631,6 +58551,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -57872,6 +58797,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -58113,6 +59043,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -58337,6 +59272,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -58580,6 +59520,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -58804,6 +59749,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -59047,6 +59997,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -59288,6 +60243,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -59529,6 +60489,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -59770,6 +60735,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -60011,6 +60981,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -60252,6 +61227,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -60493,6 +61473,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -60734,6 +61719,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -60958,6 +61948,11 @@
               },
               {
                 "date_iso": "2027-01-11",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -61201,6 +62196,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -61442,6 +62442,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -61683,6 +62688,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -61924,6 +62934,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -62165,6 +63180,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -62406,6 +63426,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -62647,6 +63672,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -62888,6 +63918,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -63129,6 +64164,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -63370,6 +64410,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -63611,6 +64656,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           }
@@ -90865,6 +91915,11 @@
                 "date_iso": "2027-01-15",
                 "jour_semaine": "Vendredi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -186487,6 +187542,11 @@
                 "date_iso": "2027-01-07",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -431493,6 +432553,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Biodéchets"
               }
             ]
           }
@@ -456112,6 +457177,11 @@
                 "date_iso": "2027-01-08",
                 "jour_semaine": "Vendredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -456309,6 +457379,11 @@
                 "date_iso": "2027-01-15",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -456460,6 +457535,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -470790,6 +471870,11 @@
                 "date_iso": "2027-01-12",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Biodéchets"
               }
             ]
           }
@@ -471545,6 +472630,11 @@
                 "date_iso": "2027-01-07",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -472744,6 +473834,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Biodéchets"
               }
             ]
           }
