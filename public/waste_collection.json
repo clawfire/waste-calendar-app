@@ -9389,6 +9389,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -10501,6 +10506,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
               }
             ]
           }
@@ -10647,6 +10657,16 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -11356,6 +11376,11 @@
                 "date_iso": "2027-01-22",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -11575,6 +11600,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -11838,6 +11868,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -12062,6 +12097,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -12325,6 +12365,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -12586,6 +12631,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -12812,6 +12862,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -13021,6 +13076,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -13234,6 +13294,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -13443,6 +13508,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -13706,6 +13776,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -13967,6 +14042,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -14228,6 +14308,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -14489,6 +14574,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -14713,6 +14803,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -14976,6 +15071,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -15237,6 +15337,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -15446,6 +15551,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -15709,6 +15819,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -15918,6 +16033,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -16181,6 +16301,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -16392,6 +16517,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -16601,6 +16731,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -16864,6 +16999,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -17088,6 +17228,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -17316,6 +17461,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -17540,6 +17690,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -17768,6 +17923,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -17977,6 +18137,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -18240,6 +18405,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -18451,6 +18621,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -18660,6 +18835,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -18888,6 +19068,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -19097,6 +19282,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -19323,6 +19513,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -19721,6 +19916,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -19930,6 +20130,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -20158,6 +20363,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -20367,6 +20577,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -20580,6 +20795,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -20789,6 +21009,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -21052,6 +21277,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -21261,6 +21491,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -21524,6 +21759,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -21733,6 +21973,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -21946,6 +22191,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -22157,6 +22407,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -22366,6 +22621,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -22629,6 +22889,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -22838,6 +23103,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -23051,6 +23321,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -23260,6 +23535,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -23488,6 +23768,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -23712,6 +23997,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -23975,6 +24265,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -24184,6 +24479,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -24447,6 +24747,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -24658,6 +24963,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -24867,6 +25177,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -25130,6 +25445,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -25339,6 +25659,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -25552,6 +25877,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -25761,6 +26091,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -25974,6 +26309,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -26183,6 +26523,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -26409,6 +26754,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -26672,6 +27022,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -26881,6 +27236,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -27144,6 +27504,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -27353,6 +27718,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -27616,6 +27986,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -27877,6 +28252,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -28138,6 +28518,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -28399,6 +28784,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -28608,6 +28998,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -28821,6 +29216,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -29030,6 +29430,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -29243,6 +29648,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -29452,6 +29862,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -29665,6 +30080,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -29874,6 +30294,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -30137,6 +30562,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -30398,6 +30828,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -30609,6 +31044,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -30818,6 +31258,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -31081,6 +31526,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -31290,6 +31740,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -31503,6 +31958,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -31712,6 +32172,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -31938,6 +32403,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -32201,6 +32671,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -32462,6 +32937,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -32723,6 +33203,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -32984,6 +33469,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -33245,6 +33735,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -33454,6 +33949,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -33717,6 +34217,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -33978,6 +34483,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -34187,6 +34697,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -34450,6 +34965,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -34659,6 +35179,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -34922,6 +35447,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -35131,6 +35661,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -35394,6 +35929,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -35655,6 +36195,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -35916,6 +36461,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           }
@@ -36132,6 +36682,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -36341,6 +36896,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -36554,6 +37114,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -36763,6 +37328,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -36976,6 +37546,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -37185,6 +37760,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -37398,6 +37978,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -37607,6 +38192,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -38060,6 +38650,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -38321,6 +38916,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -38582,6 +39182,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -38843,6 +39448,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -39104,6 +39714,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -39365,6 +39980,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -39626,6 +40246,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -39887,6 +40512,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -40148,6 +40778,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -40409,6 +41044,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -40670,6 +41310,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -40931,6 +41576,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -41192,6 +41842,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -41453,6 +42108,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -41714,6 +42374,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -41975,6 +42640,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -42236,6 +42906,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -42497,6 +43172,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -42758,6 +43438,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -43019,6 +43704,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -43280,6 +43970,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -43541,6 +44236,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -43802,6 +44502,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -44063,6 +44768,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -44324,6 +45034,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -44585,6 +45300,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -44846,6 +45566,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -45107,6 +45832,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -45368,6 +46098,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -45629,6 +46364,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -45890,6 +46630,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -46151,6 +46896,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -46412,6 +47162,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -46673,6 +47428,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -46934,6 +47694,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -47195,6 +47960,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -47456,6 +48226,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -47717,6 +48492,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -47978,6 +48758,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -48239,6 +49024,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -48500,6 +49290,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -48761,6 +49556,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -49022,6 +49822,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -49283,6 +50088,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -49544,6 +50354,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -49805,6 +50620,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -50066,6 +50886,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -50327,6 +51152,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -50588,6 +51418,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -50849,6 +51684,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -51110,6 +51950,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -51371,6 +52216,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           }
@@ -51600,6 +52450,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -52013,6 +52868,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -52237,6 +53097,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -52465,6 +53330,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -52689,6 +53559,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -52917,6 +53792,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -53141,6 +54021,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -53369,6 +54254,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -53593,6 +54483,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -53821,6 +54716,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -54045,6 +54945,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -54273,6 +55178,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -54497,6 +55407,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -54725,6 +55640,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -54949,6 +55869,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -55177,6 +56102,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -55403,6 +56333,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -55612,6 +56547,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -55840,6 +56780,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -56049,6 +56994,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -56277,6 +57227,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -56501,6 +57456,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -56729,6 +57689,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -56953,6 +57918,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -57181,6 +58151,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -57405,6 +58380,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -57633,6 +58613,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -57859,6 +58844,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -58068,6 +59058,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -58296,6 +59291,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -58520,6 +59520,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -58748,6 +59753,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -58972,6 +59982,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -59200,6 +60215,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -59424,6 +60444,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -59652,6 +60677,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -59876,6 +60906,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -60104,6 +61139,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -60330,6 +61370,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           },
@@ -60554,6 +61599,11 @@
               },
               {
                 "date_iso": "2027-01-18",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
                 "jour_semaine": "Lundi",
                 "type": "Déchets encombrants"
               }
@@ -85326,6 +86376,11 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           }
@@ -167012,6 +168067,11 @@
                 "date_iso": "2027-01-22",
                 "jour_semaine": "Vendredi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -167158,6 +168218,11 @@
                 "date_iso": "2027-01-20",
                 "jour_semaine": "Mercredi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           }
@@ -171909,6 +172974,11 @@
                 "date_iso": "2027-01-21",
                 "jour_semaine": "Jeudi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -172382,6 +173452,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           }
@@ -195611,6 +196686,11 @@
                 "date_iso": "2027-01-22",
                 "jour_semaine": "Vendredi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -204690,6 +205770,11 @@
                 "date_iso": "2027-01-21",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Biodéchets"
               }
             ]
           }
@@ -394603,6 +395688,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
               }
             ]
           }
@@ -429149,6 +430239,11 @@
                 "date_iso": "2027-01-21",
                 "jour_semaine": "Jeudi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -430325,6 +431420,16 @@
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -431250,6 +432355,11 @@
                 "date_iso": "2027-01-18",
                 "jour_semaine": "Lundi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
               }
             ]
           }
@@ -431698,6 +432808,11 @@
                 "date_iso": "2027-01-22",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
               }
             ]
           }
@@ -431834,6 +432949,11 @@
                 "date_iso": "2027-01-22",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -432847,6 +433967,11 @@
                 "date_iso": "2027-01-21",
                 "jour_semaine": "Jeudi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
               }
             ]
           }
@@ -432983,6 +434108,11 @@
                 "date_iso": "2027-01-14",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-01-25",
+                "jour_semaine": "Lundi",
+                "type": "Déchets encombrants"
               }
             ]
           }
