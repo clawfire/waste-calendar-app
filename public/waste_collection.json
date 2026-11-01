@@ -128,6 +128,11 @@
                 "date_iso": "2027-01-27",
                 "jour_semaine": "Mercredi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -8759,6 +8764,11 @@
                 "date_iso": "2027-01-27",
                 "jour_semaine": "Mercredi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -9066,6 +9076,11 @@
                 "date_iso": "2027-01-27",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -9378,6 +9393,11 @@
                 "date_iso": "2027-01-27",
                 "jour_semaine": "Mercredi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -9514,6 +9534,11 @@
                 "date_iso": "2027-01-29",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -80231,6 +80256,11 @@
                 "date_iso": "2027-01-29",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -154953,6 +154983,11 @@
                 "date_iso": "2027-01-29",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -158902,6 +158937,11 @@
                 "date_iso": "2027-01-21",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -359513,6 +359553,11 @@
                 "date_iso": "2027-01-28",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Biodéchets"
               }
             ]
           }
@@ -380072,6 +380117,11 @@
                 "date_iso": "2027-01-27",
                 "jour_semaine": "Mercredi",
                 "type": "Déchets encombrants"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -380385,6 +380435,11 @@
                 "date_iso": "2027-01-28",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -392125,6 +392180,11 @@
                 "date_iso": "2027-01-28",
                 "jour_semaine": "Jeudi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Biodéchets"
               }
             ]
           }
@@ -392815,6 +392875,11 @@
                 "date_iso": "2027-01-21",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -393834,6 +393899,11 @@
                 "date_iso": "2027-01-22",
                 "jour_semaine": "Vendredi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2027-02-01",
+                "jour_semaine": "Lundi",
+                "type": "Biodéchets"
               }
             ]
           }
