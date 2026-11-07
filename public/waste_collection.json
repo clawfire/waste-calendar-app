@@ -136970,11 +136970,6 @@
             "ics_filename": "ettelbruck_no-loc_toutes-les-rues.ics",
             "collectes": [
               {
-                "date_iso": "2026-11-07",
-                "jour_semaine": "Samedi",
-                "type": "Déchets de verdure"
-              },
-              {
                 "date_iso": "2026-11-11",
                 "jour_semaine": "Mercredi",
                 "type": "Déchets ménagers en mélange"
