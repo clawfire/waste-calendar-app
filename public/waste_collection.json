@@ -9396,6 +9396,11 @@
                 "date_iso": "2027-02-05",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -136952,6 +136957,11 @@
                 "date_iso": "2027-01-26",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -137355,6 +137365,11 @@
                 "date_iso": "2027-02-05",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -138340,6 +138355,16 @@
                 "date_iso": "2027-01-28",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
               }
             ]
           }
@@ -141083,6 +141108,11 @@
                 "date_iso": "2027-02-05",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -141219,6 +141249,11 @@
                 "date_iso": "2027-02-04",
                 "jour_semaine": "Jeudi",
                 "type": "Verre"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -141622,6 +141657,16 @@
                 "date_iso": "2027-01-28",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
               }
             ]
           }
@@ -160401,6 +160446,11 @@
                 "date_iso": "2027-02-02",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -161048,6 +161098,11 @@
                 "date_iso": "2027-02-05",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -167465,6 +167520,11 @@
                 "date_iso": "2027-02-03",
                 "jour_semaine": "Mercredi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Biodéchets"
               }
             ]
           }
@@ -319615,6 +319675,11 @@
                 "date_iso": "2027-02-05",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -319741,6 +319806,11 @@
                 "date_iso": "2027-02-02",
                 "jour_semaine": "Mardi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
               }
             ]
           }
@@ -347429,6 +347499,11 @@
                 "date_iso": "2027-02-03",
                 "jour_semaine": "Mercredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -349376,6 +349451,11 @@
                 "date_iso": "2027-02-05",
                 "jour_semaine": "Vendredi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
               }
             ]
           }
@@ -349663,6 +349743,11 @@
                 "date_iso": "2027-02-05",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Papier/Carton"
               }
             ]
           }
@@ -349799,6 +349884,11 @@
                 "date_iso": "2027-02-05",
                 "jour_semaine": "Vendredi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Déchets ménagers en mélange"
               }
             ]
           }
@@ -350758,6 +350848,11 @@
                 "date_iso": "2027-01-28",
                 "jour_semaine": "Jeudi",
                 "type": "Biodéchets"
+              },
+              {
+                "date_iso": "2027-02-08",
+                "jour_semaine": "Lundi",
+                "type": "Verre"
               }
             ]
           }
