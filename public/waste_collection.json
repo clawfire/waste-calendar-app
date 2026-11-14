@@ -350276,6 +350276,11 @@
               {
                 "date_iso": "2027-01-13",
                 "jour_semaine": "Mercredi",
+                "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-13",
+                "jour_semaine": "Mercredi",
                 "type": "Verre"
               },
               {
@@ -350321,6 +350326,11 @@
               {
                 "date_iso": "2027-01-27",
                 "jour_semaine": "Mercredi",
+                "type": "Valorlux"
+              },
+              {
+                "date_iso": "2027-01-27",
+                "jour_semaine": "Mercredi",
                 "type": "Verre"
               },
               {
@@ -350362,6 +350372,11 @@
                 "date_iso": "2027-02-10",
                 "jour_semaine": "Mercredi",
                 "type": "Papier/Carton"
+              },
+              {
+                "date_iso": "2027-02-10",
+                "jour_semaine": "Mercredi",
+                "type": "Valorlux"
               },
               {
                 "date_iso": "2027-02-10",
@@ -430288,6 +430303,11 @@
                 "type": "Déchets ménagers en mélange"
               },
               {
+                "date_iso": "2027-01-13",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets d’équipements électriques et électroniques"
+              },
+              {
                 "date_iso": "2027-01-19",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
@@ -430308,6 +430328,11 @@
                 "type": "Déchets ménagers en mélange"
               },
               {
+                "date_iso": "2027-01-27",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets encombrants"
+              },
+              {
                 "date_iso": "2027-02-02",
                 "jour_semaine": "Mardi",
                 "type": "Valorlux"
@@ -430326,6 +430351,11 @@
                 "date_iso": "2027-02-09",
                 "jour_semaine": "Mardi",
                 "type": "Déchets ménagers en mélange"
+              },
+              {
+                "date_iso": "2027-02-10",
+                "jour_semaine": "Mercredi",
+                "type": "Déchets d’équipements électriques et électroniques"
               }
             ]
           }
