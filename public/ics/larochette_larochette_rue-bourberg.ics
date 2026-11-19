@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Larochette - Rue Bourberg
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261215
-DTSTAMP:20261118T055750Z
+DTSTAMP:20261119T055813Z
 UID:b2e17bdbe7191a208058a5eb77f74eb3@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
