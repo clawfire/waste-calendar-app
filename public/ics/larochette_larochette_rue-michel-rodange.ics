@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Larochette - Rue Michel Rodange
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261215
-DTSTAMP:20261121T054221Z
+DTSTAMP:20261122T051101Z
 UID:31f0f9c1e14d866cf6b0753d83a3aa7e@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
