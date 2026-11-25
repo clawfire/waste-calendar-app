@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Larochette - Huelewee
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261215
-DTSTAMP:20261124T082929Z
+DTSTAMP:20261125T070330Z
 UID:dab7b5b3b9edb9f2ed204df1528c1370@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED

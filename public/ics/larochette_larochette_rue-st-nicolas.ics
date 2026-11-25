@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Larochette - Rue St. Nicolas
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261215
-DTSTAMP:20261124T082929Z
+DTSTAMP:20261125T070330Z
 UID:df072fb1e936599b77eee0f2d3a2d636@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
