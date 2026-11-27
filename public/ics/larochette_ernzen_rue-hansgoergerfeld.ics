@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Collectes Larochette - Rue Hansgoergerfeld
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261215
-DTSTAMP:20261126T065551Z
+DTSTAMP:20261127T064916Z
 UID:cf3b52e8c6e0d282839928c21e11d588@waste-calendar
 SUMMARY:Collecte Déchets d’équipements électriques et électroniques
 STATUS:CONFIRMED
